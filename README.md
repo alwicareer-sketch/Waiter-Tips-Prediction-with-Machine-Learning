@@ -6,11 +6,11 @@ Proyek ini bertujuan untuk menganalisis faktor-faktor yang memengaruhi pemberian
 Dataset diperoleh dari Kaggle: [Tips Dataset](https://www.kaggle.com/datasets/aminizahra/tips-dataset).
 
 **Fitur Dataset:**
-* [cite_start]`total_bill`: Total tagihan dalam dollar termasuk pajak[cite: 6].
-* [cite_start]`tip`: Jumlah tip yang diberikan dalam dollar (**Target**)[cite: 7].
-* [cite_start]`sex`: Jenis kelamin pelanggan[cite: 8].
-* [cite_start]`smoker`: Status merokok pelanggan[cite: 9].
-* [cite_start]`day`: Hari kunjungan[cite: 10].
+* `total_bill`: Total tagihan dalam dollar termasuk pajak.
+* `tip`: Jumlah tip yang diberikan dalam dollar (**Target**).
+* `sex`: Jenis kelamin pelanggan.
+* `smoker`: Status merokok pelanggan.
+* `day`: Hari kunjungan[cite: 10].
 * [cite_start]`time`: Waktu makan (Lunch/Dinner)[cite: 11].
 * [cite_start]`size`: Jumlah orang dalam satu meja[cite: 12].
 
